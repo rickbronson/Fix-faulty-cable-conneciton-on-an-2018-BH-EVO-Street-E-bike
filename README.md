@@ -10,7 +10,7 @@ When I got this bike I had to hold the "battery test" button on the battery for 
 
 This bike was displaying an "Err 03" on the display which was a torque sensor error.  The rear derailleur is mounted to the torque sensor.  Before I removed the torque sensor to examine it I thought I'd pop off the controller cover to see if I could find where the torque sensor cable comes in.
 
-Below shows the internal connection of the display and on/off button.  Also the battery connector and voltages while the battery was in deep sleep. (the first number is normal mode, the second is the brief period when the LED's are lit when pushing the "battery test" button on the battery. The chart on the lower right shows resistance measurements.
+Below shows the internal connection of the display and on/off button.  Also the battery connector and voltages while the battery was in deep sleep. (the first number is normal mode, the second is the brief period when the LED's are lit when pushing the "battery test" button on the battery. The chart on the upper right shows resistance measurements.  Torque sensor resistance measurements are on the lower right.
 
 ![alt text](https://github.com/rickbronson/Fix-faulty-cable-conneciton-on-an-2018-BH-EVO-Street-E-bike/blob/master/images/hookup3.png "hookup")
 
