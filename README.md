@@ -2,21 +2,21 @@
 ==========================================
 
 
-When I got this bike I had to hold the "battery test" button on the battery for over 5 seconds to bring the battery out of "deep sleep" mode.  If you don't you can't turn on the bike with the handlebar button.
-
-This bike was displaying an "Err 03" on the display which was a torque sensor error.  The rear derailleur is mounted to the torque sensor.  Before I removed the torque sensor to examine it I thought I'd pop off the controller cover to see if I could find where the torque sensor cable comes in.
-
 Here is a photo of the bike:
 
 ![alt text](https://github.com/rickbronson/Fix-faulty-cable-conneciton-on-an-2018-BH-EVO-Street-E-bike/blob/master/images/bike.jpg "photo")
 
-This shows the internal connection of the display and on/off button.  Also the battery connector and voltages while the battery was in deep sleep. (the first number is normal mode, the second is the brief period when the LED's are lit when pushing the "battery test" button on the battery. The chart on the lower right shows resistance measurements.
+When I got this bike I had to hold the "battery test" button on the battery for over 5 seconds to bring the battery out of "deep sleep" mode.  If you don't you can't turn on the bike with the handlebar button.
+
+This bike was displaying an "Err 03" on the display which was a torque sensor error.  The rear derailleur is mounted to the torque sensor.  Before I removed the torque sensor to examine it I thought I'd pop off the controller cover to see if I could find where the torque sensor cable comes in.
+
+Below shows the internal connection of the display and on/off button.  Also the battery connector and voltages while the battery was in deep sleep. (the first number is normal mode, the second is the brief period when the LED's are lit when pushing the "battery test" button on the battery. The chart on the lower right shows resistance measurements.
 
 ![alt text](https://github.com/rickbronson/Fix-faulty-cable-conneciton-on-an-2018-BH-EVO-Street-E-bike/blob/master/images/hookup3.png "hookup")
 
 Here is the battery connector:
 
-![alt text](https://github.com/rickbronson/Fix-faulty-cable-conneciton-on-an-2018-BH-EVO-Street-E-bike/blob/master/images/images/battery-connector.jpg "battery connector")
+![alt text](https://github.com/rickbronson/Fix-faulty-cable-conneciton-on-an-2018-BH-EVO-Street-E-bike/blob/master/images/battery-connector.jpg "battery connector")
 
 and the battery model number:
 
